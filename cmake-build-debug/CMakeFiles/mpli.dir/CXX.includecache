@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kron/ClionProjects/mpli/main.cpp
+mpi.h
+/home/kron/ClionProjects/mpli/mpi.h
+stdio.h
+-
+cmath
+-
+time.h
+-
+iostream
+-
+fstream
+-
+
+/usr/include/mpi/mpi.h
+stddef.h
+-
+cstdint
+-
+stdint.h
+-
+mpio.h
+/usr/include/mpi/mpio.h
+mpicxx.h
+/usr/include/mpi/mpicxx.h
+
+/usr/include/mpi/mpicxx.h
+stdio.h
+-
+
+/usr/include/mpi/mpio.h
+mpi.h
+/usr/include/mpi/mpi.h
+

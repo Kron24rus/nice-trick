@@ -1,0 +1,3 @@
+/home/kron/ClionProjects/mpli/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kron/ClionProjects/mpli/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kron/ClionProjects/mpli/cmake-build-debug/CMakeFiles/mpli.dir
